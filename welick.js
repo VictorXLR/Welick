@@ -1,4 +1,5 @@
 var currentScene = 0
+var actions = 0
 
 function format(s) {
     //add <p> tags between newline (\n) characters
