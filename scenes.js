@@ -23,17 +23,21 @@ var room= {
 }
 
 var toilet ={
-	text: "You go into the toilet, you see a [cup](cup), some \
-	[towels](towels) and a foggy [mirror](mirror)  "
+	text: "You go into the toilet, you see a [cup](cup), \
+	some [towels](towels) and a foggy [mirror](mirror)"
 }
 
 var mirror={
 	text: "The mirror 'ANDIE' written on it with [toothpaste](toothpaste), \
 	you should consider going back to the [room](room). "
 }
+var toothpaste = {
+	text: "The Toothpaste doesnt seem right, its gooey and everywhere is creepy. \
+	you are better of looking again trough the [toilet](toilet)"
+}
 var kitchen={
 	text: "The kitchen is a mess, there is a [note](note) on the floor and \
-	there is also a heap of plates on the sink. there is a lot of bugs too,\
+	there is also a heap of plates on the sink. there are a lot of bugs too,\
 	you consider going back to the [room](room)"
 }
 var note= {
