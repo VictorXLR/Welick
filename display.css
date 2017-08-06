@@ -224,3 +224,13 @@ a:focus,
 a:active {
   color: #2980b9;
 }
+
+.scene-link {
+    transition: .2s ease;
+}
+
+.enabled {
+    color: green;
+    cursor: pointer;
+}
+
