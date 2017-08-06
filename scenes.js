@@ -13,8 +13,7 @@ loadScene(start)
 
 
 var first={
-	text: "You wake up in a room with 3 doors, [kitchen](kitchen)\ 
-	,[wardrobe](wardrobe), [toilet](Toilet)"
+	text: "You wake up in a room with 3 doors, [kitchen](kitchen),[wardrobe](wardrobe), [toilet](Toilet)"
 
 }
 var room= {
@@ -42,6 +41,5 @@ var note= {
 	[ink](ink), the entire place just got more creepy "
 }
 var ink={
-	text:" The ink is possibly blood, also the door just got jammed,\ 
-	your are better off looking around the [kitchen](kitchen)"
+	text:" The ink is possibly blood, also the door just got jammed, your are better off looking around the [kitchen](kitchen)"
 }
