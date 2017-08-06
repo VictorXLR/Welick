@@ -12,7 +12,8 @@ loadScene(start)
 
 
 var first={
-	text: "You wake up in a room with 3 doors [kitchen](kitchen),[wardrobe](wardrobe), [toilet](Toilet)"
+	text: "You wake up in a room with 3 doors, [kitchen](kitchen),[wardrobe](wardrobe),\
+	[toilet](Toilet)"
 
 }
 var room= {
@@ -21,9 +22,15 @@ var room= {
 }
 
 var toilet ={
-	text: "You go into the toilet, you see a [cup](cup), some [towels](towels) and a foggy [mirror](mirror)  "
+	text: "You go into the toilet, you see a [cup](cup), some [towels](towels) and a foggy\
+	 [mirror](mirror)  "
 }
 
 var mirror={
-	text: "The mirror 'ANDIE' written on it with [toothpaste](toothpaste), you should consider going back to the [room](room). "
+	text: "The mirror 'ANDIE' written on it with [toothpaste](toothpaste), you should consider going\
+	 back to the [room](room). "
+}
+var kitchen={
+	text: "The kitchen is a mess, there is a [note](note) on the floor and there is also a heap of plates\
+	on the sink. there is a lot of bugs too, you consider going back to the [room](room)"
 }

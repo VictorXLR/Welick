@@ -51,8 +51,6 @@ function loadScene(scene) {
 }
 
 function RecursiveUnbind($jElement) {
-    // remove this element's and all of its children's click events
-    // taken from StackOverflow
     $jElement.unbind();
     $jElement.removeAttr('onclick');
     $jElement.children().each(function () {
