@@ -154,7 +154,7 @@ html {
 
 body {
   color: #444;
-  /*font-family: 'Merriweather', Georgia, serif;*/
+ font-size: 18px;
   font-family: 'Inconsolata', monospace;
   margin: 0;
   max-width: 100%;
