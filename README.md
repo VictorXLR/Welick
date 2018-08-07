@@ -5,7 +5,7 @@ Twine Games. I originally planned for it to be scary with effects but the more
 i typed the more i dint feel like continuing.
 
 See the Demo at 
-	https://Victorxlr.me/welick
+	https://Victorxlr.me/Welick
 
 
 Its not fun at all. :(
